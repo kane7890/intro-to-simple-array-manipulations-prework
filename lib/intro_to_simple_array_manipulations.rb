@@ -10,4 +10,6 @@ def using_pop(arr)
   return arr.pop
 end
 
-def using
+def pop_with_args(arr)
+  arr.pop(2)
+end
